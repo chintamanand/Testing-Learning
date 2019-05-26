@@ -18,7 +18,7 @@ HANA
 
 
 Please do participate in our Bounty Program --Refine Medium
-Refine Medium is Decentralized media Platform Governed by Ethereum Network
+Refine Medium is a decentralised media platform rendering authentic and high quality video content. It is built on top of Ethereum blockchain designed to enable viewers, creators and innovators of the platform to connect via blockchain based smart contracts. A one-of-its-kind platform that will incentivise each and every stakeholder for their contribution to the platform.
 
 
 
