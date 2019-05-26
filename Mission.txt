@@ -1,0 +1,4 @@
+Mission
+“Validation, Verification and Vindication of online media along with a rigid,
+immutable and secure ledger in order to build trust in the blockchain system.”
+
