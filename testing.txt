@@ -5,3 +5,9 @@ Testing and Learning
 java
 jsp
 JBDC
+
+HTML 
+CSS
+JS
+Angular
+Bootstrap
