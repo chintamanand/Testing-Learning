@@ -11,3 +11,7 @@ CSS
 JS
 Angular
 Bootstrap
+
+MySQl
+Firebase
+HANA
